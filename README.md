@@ -608,7 +608,7 @@ POST /Admin/Login
 → Sets authentication cookie → redirects to Home/Index
 ```
 
-- Only users with `Admin` or `SuperAdmin` roles can log in
+- Only users with `Admin` roles can log in
 - Role is checked **before** password validation
 - Uses `SignInManager.PasswordSignInAsync()` with cookie persistence
 - Logout calls `SignOutAsync()` and redirects to Login
@@ -633,8 +633,7 @@ Seed data loaded from JSON files in `ECommerce.Persistence/Data/DataSeeding/JSON
 
 | Email | Password | Role |
 |---|---|---|
-| abdallaaboaziz@gmail.com | Admin@123 | SuperAdmin |
-| AhmedAli@gmail.com | Admin@123 | Admin |
+| any03725@gmail.com | Admin | Admin |
 
 ### Add a New Migration
 
