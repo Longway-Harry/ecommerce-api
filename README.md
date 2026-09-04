@@ -690,5 +690,5 @@ The `Result<T>` / `Error` pattern is used in every service method. No exceptions
 
 **Abdalla Aboaziz**
 
-- GitHub: [github.com/Abdalla-Aboaziz]([https://github.com/Abdalla-Aboaziz](https://github.com/Longway-Harry))
-- 📧 any03725@gmail.com
+- GitHub: [github.com/Abdalla-Aboaziz]([https://github.com/Longway-Harry](https://github.com/Longway-Harry))
+- 📧 pnu4764@gmail.com
